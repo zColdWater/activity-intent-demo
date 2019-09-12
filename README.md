@@ -4,5 +4,5 @@
 
 Demo 效果图:
 
-<img src="https://raw.githubusercontent.com/zColdWater/Resources/master/Images/Android-Intent.png" height="150" />
+<img src="https://raw.githubusercontent.com/zColdWater/Resources/master/Images/Android-Intent.png"  width="300" />
 
